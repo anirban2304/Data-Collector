@@ -30,4 +30,4 @@ jobs:
       with:
         app-name: 'python-height-data'
         slot-name: 'production'
-        publish-profile: ${{ secrets.AzureAppService_PublishProfile_ca8d388f4c5a4d38ba196cd0f6a6b625 }}
+        publish-profile: ${{ secrets.AzureAppService_PublishProfile_cc498cd673b646f3a80c7e2d09503097 }}
